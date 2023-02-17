@@ -14,14 +14,23 @@ The third data source was the longitudinal and latitudinal dataset for all the c
 ![image](https://user-images.githubusercontent.com/94016314/219793861-f14bf54e-a634-4a06-91a1-1dc25adf74f7.png)
 
 Business questions: 
+
 Question 1: Which countries and provinces had the MOST and LEAST reviews (demographic distributions of wine reviews)?
+
 Question 2: What is the MEAN, MIN and MAX points received for wines from the most and least reviewed countries and provinces? 
+
 Question 3: What was the MEAN, MIN and MAX price of wine by country?
+
 Question 4: How many wines were reviewed by category? What are the top 10 wine varieties reviewed?
+
 Question 5: What are the MEAN, MIN and MAX scores, particular for top 10 most reviewed varieties?
+
 Question 6: What was the MEAN, MIN and MAX prices of wine by top 10 reviewed varieties?
+
 Question 7: For each country, what type of wine is most reviewed?
+
 Question 8: What is the correlation between the price and score of a bottle of wine?
+
 Question 9: What types of descriptors were frequently associated categories of wine in the reviews? e.g. what kind of fruit flavor were typically used in the wine reviews? 
 
 
