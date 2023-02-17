@@ -11,6 +11,7 @@ Since the data from the original scrapping was from 2017, which is a little date
 
 Data source 3: 
 The third data source was the longitudinal and latitudinal dataset for all the countries under the name of “world_country_and_usa_states_latitude_and_longitude_values.csv”. The data is available at Kaggle from: https://www.kaggle.com/datasets/paultimothymooney/latitude-and-longitude-for-every-country-and-state. I did some cleaning and only included the world country latitude and longitude for my analysis. This dataset included four attributes: country code (abbreviation), longitude, latitude, and country (name).
+
 ![image](https://user-images.githubusercontent.com/94016314/219793861-f14bf54e-a634-4a06-91a1-1dc25adf74f7.png)
 
 Business questions: 
