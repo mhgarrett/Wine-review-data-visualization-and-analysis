@@ -35,3 +35,5 @@ Question 8: What is the correlation between the price and score of a bottle of w
 Question 9: What types of descriptors were frequently associated categories of wine in the reviews? e.g. what kind of fruit flavor were typically used in the wine reviews? 
 
 
+Some highlights in the findings:
+
